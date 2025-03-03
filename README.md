@@ -1,4 +1,4 @@
-# ocp-network-hiccup
+# tcconfig-container
 When a perfect network without latency or bandwidth contraints is available all is well. However when conditions are not perfect there can be detrimental effects to SNO installation. 
 
 The TC commands were generated with tcconfig and set a 20Mbps cap on ssh incoming and outgoing for IPv6 traffic. 
